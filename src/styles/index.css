@@ -1,7 +1,13 @@
+@font-face {
+    font-family: "Uni Sans";
+    src: url("https://www.1001fonts.com/download/font/uni-sans.heavy-caps.otf");
+}
+
 body, html {
     background-color: #000;
     color: #fff;
-    width: ""
+    width: "";
+    font-family: "Uni Sans";
 }
 
 .playbox {
